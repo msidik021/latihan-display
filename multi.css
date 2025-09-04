@@ -1,0 +1,49 @@
+.container {
+  width: 30%;
+  margin: auto;
+  padding: 0;
+  overflow: auto;
+}
+
+.header-top {
+  width: 30%;
+  height: 20px;
+  background: #000;
+  margin: auto;
+}
+
+.header {
+  width: 30%;
+  height: 150px;
+  background: #99c2e0;
+  margin: auto;
+}
+
+.kiri {
+  width: 20%;
+  height: 500px;
+  background-color: #e0e0e0;
+  float: left;
+}
+
+.tengah {
+  width: 50%;
+  height: 500px;
+  background-color: #fff0cc;
+  float: left;
+}
+
+.kanan {
+  width: 30%;
+  height: 500px;
+  background-color: #e0e0e0;
+  float: left;
+}
+
+.footer {
+  width: 30%;
+  height: 20px;
+  background: #000;
+  margin: auto;
+  clear: both;
+}

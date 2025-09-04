@@ -1,0 +1,30 @@
+/* <--margin.html--> */
+
+.one {
+ margin: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+}
+
+.two {
+  margin: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  background-color: lightseagreen;
+}
+
+.three {
+  margin: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  background-color: lightcoral;
